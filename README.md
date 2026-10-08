@@ -1,2 +1,3 @@
 # Exercicio-State
-<img width="875" height="1133" alt="image" src="https://github.com/user-attachments/assets/c57433c2-8135-4759-ad9a-62fc398c2bdb" />
+<img width="686" height="1128" alt="image" src="https://github.com/user-attachments/assets/efd1a181-7eb6-497d-a277-13521badb4ed" />
+
